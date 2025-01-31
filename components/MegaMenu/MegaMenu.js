@@ -13,7 +13,7 @@ export default function MegaMenu() {
         <div className="relative block  text-xl text-teal-600 font-bold">
         <Link href="/">
           <Image
-            src={'/Platformable-logo.png'}
+            src={'/Platformable-logo-reduced.png'}
             className=""
             alt="Platformable"
             width={300}
